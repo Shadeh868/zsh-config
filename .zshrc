@@ -19,7 +19,7 @@ SAVEHIST=10000
 setopt SHARE_HISTORY
 
 # Append to history file instead of overwriting
-setopt APPEND_HISTORY
+#setopt APPEND_HISTORY
 
 # Timestamp each history entry (helpful for tracking when commands were run)
 #setopt HIST_STAMPS="yyyy-mm-dd"
